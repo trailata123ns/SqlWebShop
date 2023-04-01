@@ -316,7 +316,7 @@ CREATE TABLE `tbl_users` (
 
 LOCK TABLES `tbl_users` WRITE;
 /*!40000 ALTER TABLE `tbl_users` DISABLE KEYS */;
-INSERT INTO `tbl_users` VALUES (18,'admin','$2a$04$DbvIJGFgP0XZyBWfdarJCOVDmjG1RbFB/o4CM1BarSNvBeD2u1Kc6','henny112603@gmail.com','Cầu Giấy Hà Nội','0367184468',NULL,NULL,NULL,NULL,1,''),(28,'viet1','$2a$10$P9GTC8uXK9msSIRKKbHxnuiMnh0iV0b9JJYhd/xnJqyMrCCGY4fMu','phamducviet0509@gmail.com','Cầu Giấy Hà Nội','0367184469',NULL,NULL,NULL,NULL,1,NULL);
+INSERT INTO `tbl_users` VALUES (18,'admin','$2a$04$DbvIJGFgP0XZyBWfdarJCOVDmjG1RbFB/o4CM1BarSNvBeD2u1Kc6','hadesstore563@gmail.com','Cầu Giấy Hà Nội','0367184468',NULL,NULL,NULL,NULL,1,''),(28,'viet1','$2a$10$P9GTC8uXK9msSIRKKbHxnuiMnh0iV0b9JJYhd/xnJqyMrCCGY4fMu','phamducviet0509@gmail.com','Cầu Giấy Hà Nội','0367184469',NULL,NULL,NULL,NULL,1,NULL);
 /*!40000 ALTER TABLE `tbl_users` ENABLE KEYS */;
 UNLOCK TABLES;
 
